@@ -12,6 +12,7 @@ _Winter 2020_
 
 | Paper  	| Date  	| Leader  	|
 |---	|---	|---	|
-|   	|   	|   	|
-|   	|   	|   	|
-|   	|   	|   	|
+|   	| Tues Jan 14 |   	|
+|   	| Tues Jan 28 |   	|
+|   	| Tues Feb 11 |   	|
+|     | Tues Feb 25 |     |
