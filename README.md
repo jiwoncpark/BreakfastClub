@@ -12,6 +12,6 @@ _Winter 2020_
 
 | Paper  	| Date  	| Leader  	|
 |---	|---	|---	|
-|   	| Tues Jan 28 |   	|
-|   	| Tues Feb 11 |   	|
-|     | Tues Feb 25 |     |
+| [Hierarchical Implicit Models and Likelihood-Free Variational Inference](https://arxiv.org/abs/1702.08896)	| Tues Jan 28 | @swagnercarena |
+| [Variational Inference with Normalizing Flows](https://arxiv.org/abs/1505.05770)	| Tues Mar 10 | @jiwoncpark	|
+|     | Tues Mar 24 |     |
