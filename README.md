@@ -12,6 +12,6 @@ _Winter 2020_
 
 | Paper  	| Date  	| Leader  	|
 |---	|---	|---	|
-| [Hierarchical Implicit Models and Likelihood-Free Variational Inference](https://arxiv.org/abs/1702.08896) by Dustin Tran, Rajesh Ranganath, David M. Blei (2017)	| Tues Jan 28 |  [Sebastian](https://github.com/drphilmarshall/BreakfastClub/issues/new?body=@swagnercarena) 	|
-|   	| Tues Feb 11 |   	|
-|     | Tues Feb 25 |     |
+| [Hierarchical Implicit Models and Likelihood-Free Variational Inference](https://arxiv.org/abs/1702.08896)	| Tues Jan 28 | @swagnercarena |
+| [Variational Inference with Normalizing Flows](https://arxiv.org/abs/1505.05770)	| Tues Mar 10 | @jiwoncpark	|
+|     | Tues Mar 24 |     |
