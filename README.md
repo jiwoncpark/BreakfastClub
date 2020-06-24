@@ -14,4 +14,7 @@ _Winter 2020_
 |---	|---	|---	|
 | [Hierarchical Implicit Models and Likelihood-Free Variational Inference](https://arxiv.org/abs/1702.08896)	| Tues Jan 28 | @swagnercarena |
 | [Variational Inference with Normalizing Flows](https://arxiv.org/abs/1505.05770)	| Tues Mar 10 | @jiwoncpark	|
-|     | Tues Mar 24 |     |
+| [Automatic Posterior Transformation for Likelihood-free Inference](https://arxiv.org/abs/1905.07488) | Tues Mar 24 | @swagnercarena    |
+| [On Contrastive Learning for Likelihood-free Inference](https://arxiv.org/abs/2002.03712) | Wed June 3 | @jiwoncpark|
+| Empirical Bayes for Likelihood-free Inference | Wed June 24 | Maxime Vandegar |
+| [Likelihood-free MCMC with Amortized Approximate Ratio Estimators](https://arxiv.org/abs/1903.04057) | Wed July 8 | ? |
