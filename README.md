@@ -10,11 +10,14 @@ The reading group meetings are only open to HXML group members, but our bibliogr
 ## Hierarchical Models
 _Winter 2020_
 
-| Paper  	| Date  	| Leader  	|
+| Paper (link to relevant issue with slides and paper)	| Date  	| Leader  	|
 |---	|---	|---	|
-| [Hierarchical Implicit Models and Likelihood-Free Variational Inference](https://arxiv.org/abs/1702.08896)	| Tues Jan 28 | @swagnercarena |
-| [Variational Inference with Normalizing Flows](https://arxiv.org/abs/1505.05770)	| Tues Mar 10 | @jiwoncpark	|
-| [Automatic Posterior Transformation for Likelihood-free Inference](https://arxiv.org/abs/1905.07488) | Tues Mar 24 | @swagnercarena    |
-| [On Contrastive Learning for Likelihood-free Inference](https://arxiv.org/abs/2002.03712) | Wed June 3 | @jiwoncpark|
-| Empirical Bayes for Likelihood-free Inference | Wed June 24 | Maxime Vandegar |
-| [Likelihood-free MCMC with Amortized Approximate Ratio Estimators](https://arxiv.org/abs/1903.04057) | Wed July 8 | ? |
+| [Hierarchical Implicit Models and Likelihood-Free Variational Inference](https://github.com/drphilmarshall/BreakfastClub/issues/14)	| 1/28/2020 | @swagnercarena |
+| [Variational Inference with Normalizing Flows](https://github.com/drphilmarshall/BreakfastClub/issues/3)	| 3/10/2020 | @jiwoncpark	|
+| [Automatic Posterior Transformation for Likelihood-free Inference](https://github.com/drphilmarshall/BreakfastClub/issues/4) | 3/24/2020 | @swagnercarena |
+| [On Contrastive Learning for Likelihood-free Inference](https://github.com/drphilmarshall/BreakfastClub/issues/7) | 6/03/2020 | @jiwoncpark |
+| Empirical Bayes for Likelihood-free Inference (his own application) | 6/24/2020 | @MaximeVandegar |
+| [Normalizing Flows for Probabilistic Modeling and Inference](https://github.com/drphilmarshall/BreakfastClub/issues/10) | 7/08/2020, 07/29/2020 | @jiwoncpark, @joshualin24 |
+| [Bayesian Deep Learning and a Probabilistic Perspective of Generalization](https://github.com/drphilmarshall/BreakfastClub/issues/11) | 8/12/2020 | @swagnercarena |
+| [A general method for debiasing a Monte Carlo estimator](https://github.com/drphilmarshall/BreakfastClub/issues/12) | @MaximeVandegar | 9/09/2020 |
+| [Importance Weighted Hierarchical Variational Inference](https://github.com/drphilmarshall/BreakfastClub/issues/13) | 9/30/2020 | @jiwoncpark |
