@@ -19,5 +19,5 @@ _Winter 2020_
 | Empirical Bayes for Likelihood-free Inference (his own application) | 6/24/2020 | @MaximeVandegar |
 | [Normalizing Flows for Probabilistic Modeling and Inference](https://github.com/drphilmarshall/BreakfastClub/issues/10) | 7/08/2020, 07/29/2020 | @jiwoncpark, @joshualin24 |
 | [Bayesian Deep Learning and a Probabilistic Perspective of Generalization](https://github.com/drphilmarshall/BreakfastClub/issues/11) | 8/12/2020 | @swagnercarena |
-| [A general method for debiasing a Monte Carlo estimator](https://github.com/drphilmarshall/BreakfastClub/issues/12) | @MaximeVandegar | 9/09/2020 |
+| [A general method for debiasing a Monte Carlo estimator](https://github.com/drphilmarshall/BreakfastClub/issues/12) | 9/09/2020 | @MaximeVandegar |
 | [Importance Weighted Hierarchical Variational Inference](https://github.com/drphilmarshall/BreakfastClub/issues/13) | 9/30/2020 | @jiwoncpark |
